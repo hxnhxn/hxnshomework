@@ -1,9 +1,9 @@
-# hxnshomework
+# hxn'shomework
 # Welcome to My Page
 
-This is 21181312胡轩宁's marketdown for computer english.
+#这里是21181312胡轩宁的博客(just for computer English).
 
-如果你想去罗捷的md，点击[它](..md).
+这里是我的学校[吉林大学](https://www.jlu.edu.cn/).
 ***
 ## 图片
 #### 目录中的图片
