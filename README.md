@@ -26,8 +26,8 @@ int main()
 > Good good study, day day up! - Luxun(wrong)
 ## List
 #### bulleted list
-** PHP是最好的语言！
-** 呵，弱类型的辣鸡。
+** *PHP是最好的语言！
+** *呵，弱类型的辣鸡。
 #### numbered list.
 1. 胡
 2. 轩
