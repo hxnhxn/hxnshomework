@@ -6,7 +6,7 @@
 #### an H4 sized header
 这里是我的学校[吉林大学](https://www.jlu.edu.cn/).
 
-这是我的[履历](./hxn's career.md).
+这是我的[履历](hxn's career.md).
 ## an image that is a file in the directory.
 ![这是我的课表](./课表.png).
 
