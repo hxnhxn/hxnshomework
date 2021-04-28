@@ -24,3 +24,20 @@ int main()
 ```
 ## block quote
 > Good good study, day day up! - Luxun(wrong)
+## List
+#### bulleted list
+** PHP是最好的语言！
+** 呵，弱类型的辣鸡。
+#### numbered list.
+1. 胡
+2. 轩
+3. 宁
+4. 2
+5. 1
+6. 1
+7. 8
+8. 1
+9. 3
+10. 1
+11. 2
+## table
