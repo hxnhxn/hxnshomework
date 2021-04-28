@@ -1,7 +1,7 @@
 # hxn'shomework
 # Welcome to My Page
 
-####这里是21181312胡轩宁的博客(just for computer English).
+#### 这里是21181312胡轩宁的博客(just for computer English).
 
 这里是我的学校[吉林大学](https://www.jlu.edu.cn/).
 ***
